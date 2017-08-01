@@ -1,1 +1,0 @@
-# This project is used to classifiy the mutliply class for text.
